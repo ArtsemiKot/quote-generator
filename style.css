@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-style: normal;
+    font-family: "Roboto";
+}
+
+body {
+    width: 1200px;
+    margin: auto;
+    background-color: #837FB1;
+}
+
+h1 {
+    margin-top: 135px;
+    color: #FFF;
+    text-align: center;
+    font: 400 48px "Roboto";
+}
+
+.conteiner {
+    margin: 5% auto;
+    padding: 15px;
+    width: 700px;
+    height: 359px;
+    border-radius: 21px;
+    background: var(--neutral-700, #212931);
+    box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.20);
+}
+
+.img {
+    background-image: url(./G.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 57px;
+    height: 13px;
+    margin-left: 10px;
+}
+
+.conteiner p {
+    text-align: center;
+    color: #FFF;
+    margin-top: 167px;
+    color: #FFF;
+    font: 700 26px "Roboto";
+}
